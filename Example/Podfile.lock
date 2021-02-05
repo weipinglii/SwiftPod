@@ -1,0 +1,16 @@
+PODS:
+  - SwiftPod (0.1.0)
+
+DEPENDENCIES:
+  - SwiftPod (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftPod: 8e732f20b27d1319fe1913f192747b99670a4573
+
+PODFILE CHECKSUM: 8fd792278d00fdb1afd4e3523b64b7f232b5fd1a
+
+COCOAPODS: 1.10.0
